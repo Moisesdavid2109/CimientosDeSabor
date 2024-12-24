@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CJNu9Rlphik=",
+  "dgSpecHash": "wYl7E589ykU=",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\C# Programas\\Catologo\\Catologo\\Catologo.csproj",
+  "projectFilePath": "D:\\Documentos\\C# Programas\\Catologo\\public\\Catologo\\Catologo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moises\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

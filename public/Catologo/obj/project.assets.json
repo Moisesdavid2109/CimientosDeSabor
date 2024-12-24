@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\C# Programas\\Catologo\\Catologo\\Catologo.csproj",
+      "projectUniqueName": "D:\\Documentos\\C# Programas\\Catologo\\public\\Catologo\\Catologo.csproj",
       "projectName": "Catologo",
-      "projectPath": "D:\\Documentos\\C# Programas\\Catologo\\Catologo\\Catologo.csproj",
+      "projectPath": "D:\\Documentos\\C# Programas\\Catologo\\public\\Catologo\\Catologo.csproj",
       "packagesPath": "C:\\Users\\Moises\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\C# Programas\\Catologo\\Catologo\\obj\\",
+      "outputPath": "D:\\Documentos\\C# Programas\\Catologo\\public\\Catologo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moises\\AppData\\Roaming\\NuGet\\NuGet.Config"
