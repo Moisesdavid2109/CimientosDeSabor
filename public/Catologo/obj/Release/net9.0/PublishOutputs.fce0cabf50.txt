@@ -1,0 +1,9 @@
+D:\Documentos\C# Programas\Catologo\public\Catologo.exe
+D:\Documentos\C# Programas\Catologo\public\appsettings.Development.json
+D:\Documentos\C# Programas\Catologo\public\appsettings.json
+D:\Documentos\C# Programas\Catologo\public\tarjetas.json
+D:\Documentos\C# Programas\Catologo\public\Catologo.dll
+D:\Documentos\C# Programas\Catologo\public\Catologo.deps.json
+D:\Documentos\C# Programas\Catologo\public\Catologo.runtimeconfig.json
+D:\Documentos\C# Programas\Catologo\public\Catologo.pdb
+D:\Documentos\C# Programas\Catologo\public\Newtonsoft.Json.dll
